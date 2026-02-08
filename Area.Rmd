@@ -10,10 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-```{r}
+
 radio <- 5
 area <- pi * radio^2
 area
 
-```
-
+```{r}
+Lado <-3
+AreaCuadrado<-Lado^2
