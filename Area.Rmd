@@ -1,0 +1,19 @@
+---
+title: "Areas"
+author: "jalal"
+date: "2026-02-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+```{r}
+radio <- 5
+area <- pi * radio^2
+area
+
+```
+
